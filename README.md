@@ -1,5 +1,5 @@
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=header&text=Welcome%20to%20Areum's%20Git%F0%9F%91%8B&fontSize=50&Color=#FFDAB9">
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=header&text=Welcome%20to%20Areum's%20Git%F0%9F%91%8B&fontSize=50&Color=#FFB6C1">
 <div>
 <div align=center><h1>📚 STACKS</h1></div>
 
